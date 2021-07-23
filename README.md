@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🚀 I use daily:
-  ![Vue](https://img.shields.io/badge/-Vue-black?style=plastic&logo=vue)
   ![Vue](https://img.shields.io/badge/Vue-vue-success)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
