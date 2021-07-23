@@ -33,7 +33,6 @@ Here are some ideas to get you started:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hellokugou520&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
