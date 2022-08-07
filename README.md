@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
 
+![profile-gitblock](./profile-3d-contrib/profile-gitblock.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hellokugou520&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellokugou520&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
